@@ -1,0 +1,32 @@
+h1{
+    font-style: normal;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color: brown;
+    font-size: 15px;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, Sans-Serif;
+    height: 50px 10px;
+}
+li{
+    list-style: none;
+    display: inline;
+    background-size: 15px;
+}
+li a{
+    background-color: rgb(red);
+    color: white;
+    text-align: center;
+}
+.ava{
+    background-color: brown;
+    background-size: 15px;
+}
+p{
+    text-align: justify;
+}
+ul{
+    text-align: center;
+    padding: 14px;
+}
